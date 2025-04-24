@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/css/main.adc910bf.css",
+    "main.js": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/js/main.c3136015.js",
+    "static/js/453.9add271e.chunk.js": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/js/453.9add271e.chunk.js",
+    "index.html": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/index.html",
+    "main.adc910bf.css.map": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/css/main.adc910bf.css.map",
+    "main.c3136015.js.map": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/js/main.c3136015.js.map",
+    "453.9add271e.chunk.js.map": "/Tubes-PWEB-kelompok-4-wisata-dan-budaya/static/js/453.9add271e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc910bf.css",
+    "static/js/main.c3136015.js"
+  ]
+}
