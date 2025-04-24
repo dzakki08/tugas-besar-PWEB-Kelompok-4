@@ -1,0 +1,121 @@
+.contact-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.7;
+  border-radius: 12px;
+}
+
+.contact-title {
+  font-size: 2.5rem;
+  color: #1e3a8a;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.contact-description,
+.contact-note {
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+
+.contact-info p,
+.social-media ul li {
+  margin-bottom: 0.75rem;
+}
+
+.contact-info a,
+.social-media a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.contact-info a:hover,
+.social-media a:hover {
+  text-decoration: underline;
+}
+
+.social-media h2 {
+  font-size: 1.25rem;
+  color: #1f2937;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.social-media ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.contact-button-wrapper {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.contact-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #2563eb;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 300px;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  scroll-snap-align: start;
+  transition: transform 0.2s ease;
+}
+
+.card h2 {
+  color: #2563eb;
+  font-weight: 5000;
+  font-size: 1.5rem;
+}
+
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+.card-content h4 {
+  margin: 0.5rem 0;
+  color: #00796b;
+}
+
+.card-content p {
+  color: #475569;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+
+.card-content a:hover {
+  text-decoration: underline;
+}
+
+.card-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap; /* agar tetap rapi di layar kecil */
+  justify-content: center;
+}
